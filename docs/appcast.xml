@@ -4,6 +4,7 @@
     <title>DVRIP Viewer Updates</title>
     <item>
       <title>DVRIP Viewer 1.6.4</title>
+      <description><![CDATA[<h2>Что нового в 1.6.4</h2><p>В настройках появилась вкладка «Обновления».</p><ul><li>Автоматическая проверка новых версий.</li><li>Фоновая загрузка обновлений.</li><li>Ручная проверка прямо из настроек.</li></ul>]]></description>
       <sparkle:version>35</sparkle:version>
       <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
