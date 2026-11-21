@@ -3,6 +3,14 @@
   <channel>
     <title>DVRIP Viewer Updates</title>
     <item>
+      <title>DVRIP Viewer 1.7.15</title>
+      <description><![CDATA[<ul><li>Раздел «Все камеры» переименован в «Дэшборд».</li><li>В меню «Вид» появилась группировка камер по NVR с заголовками регистраторов.</li><li>В режиме «Изменить» можно перетаскивать плитки за заголовок, скрывать камеры и возвращать их кликом по камере в боковом меню. Порядок и состав сохраняются.</li></ul>]]></description>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>1.7.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://v1597psh.github.io/dvrip-viewer-updates/DVRIP-Viewer-arm64-1.7.15.zip" sparkle:edSignature="AnG9VvG9m5bjVb0fHHSTU92TK0hhnSmJHf8s7n8KFugohOhv/uv5lZ3RTBYo4sboUKTnJlZQD48G7+N7Oq6WCA==" length="3685071" type="application/octet-stream" />
+    </item>
+    <item>
       <title>DVRIP Viewer 1.7.9</title>
       <description><![CDATA[<ul><li>В режиме сетки подсвечивается только кнопка «Все камеры».</li><li>При запуске восстанавливается последний вид: сетка или выбранная камера. Это можно отключить в настройках воспроизведения.</li><li>В настройках паузы при неактивном окне появились интервалы 30 минут, 45 минут и 1 час.</li><li>Управление звуком перенесено в элементы управления плеера.</li></ul>]]></description>
       <sparkle:version>45</sparkle:version>
