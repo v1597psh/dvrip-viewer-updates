@@ -3,6 +3,15 @@
   <channel>
     <title>DVRIP Viewer Updates</title>
     <item>
+      <title>DVRIP Viewer 1.8.3</title>
+      <description><![CDATA[<ul><li>Можно создавать несколько дэшбордов, переименовывать и удалять их. Каждый сохраняет свой набор камер, порядок плиток и раскладку.</li><li>Значки Grid, 6 Split, 8 Split и 10 Split и остальные элементы управления теперь в одной строке с заголовком дэшборда. У ползунка масштаба убрана видимая подпись.</li><li>Кнопка «−» в дэшборде удаляет открытый дэшборд после подтверждения. Камеры остаются в общем списке.</li><li>Исправлено обрезание текста в настройках воспроизведения.</li></ul>]]></description>
+      <pubDate>Tue, 24 Nov 2026 01:44:36 GMT</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://v1597psh.github.io/dvrip-viewer-updates/DVRIP-Viewer-arm64-1.8.3.zip" sparkle:edSignature="V87bE/TnUCa4G+h+Ym+ecJobwvSeKxgBW0zCcn0oBUvCVHVFucn68OiOir2zjnhmkNvi+vTc6dITMRjhUElxAQ==" length="3777643" type="application/octet-stream" />
+    </item>
+    <item>
       <title>DVRIP Viewer 1.8</title>
       <description><![CDATA[<ul><li>В дэшборде добавлены раскладки 6 Split, 8 Split и 10 Split. Плитки сохраняют свои позиции и масштабируются вместе с окном. Камеры сверх лимита отображаются одним рядом внизу.</li><li>Группировка по NVR доступна в режиме Grid. В нём размер плиток можно менять ползунком или жестом масштабирования.</li></ul>]]></description>
       <sparkle:version>55</sparkle:version>
